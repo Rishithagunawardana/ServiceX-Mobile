@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View,ImageBackground,Image, TextInput, Dimensions, TouchableOpacity} from 'react-native';
-import bgImage from '/repo/service/src/images/bg.jpg';
-import avatar from '/repo/service/src/images/avatar.png';
+import bgImage from './repo/ServiceX/src/images/bg.jpg';
+import avatar from './repo/ServiceX/src/images/avatar.png';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 
